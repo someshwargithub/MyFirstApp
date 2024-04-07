@@ -8,5 +8,5 @@ import { FormsModule } from '@angular/forms'
   styleUrl: './binding-test.component.css'
 })
 export class BindingTestComponent {
-name="Rana";
+name="Someshwar";
 }

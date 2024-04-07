@@ -12,5 +12,5 @@ import {HeaderComponent} from './header/header.component';
   styleUrl: './app.component.css',
 })
 export class AppComponent {
-  title:string = 'This is my Header';
+  title:string = 'Header from Somesh';
 }
