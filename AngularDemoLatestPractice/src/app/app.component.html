@@ -1,0 +1,16 @@
+<p>my Fisrt Angular app</p>
+<app-person></app-person>
+<app-emp></app-emp>
+<app-binding-test></app-binding-test>
+<app-header [text]="title"></app-header>
+<app-user></app-user>
+<app-user-input></app-user-input>
+<app-person-ev (personCreate)="onPersonCreated($event)"></app-person-ev>
+<li *ngFor="let person of persons">
+  <ul>
+    {{
+      person
+    }}
+  </ul>
+</li>
+<app-my-emp-service></app-my-emp-service>
