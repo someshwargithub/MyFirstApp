@@ -1,0 +1,7 @@
+{
+  "name": "Ionic-Somesh-API-Post",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

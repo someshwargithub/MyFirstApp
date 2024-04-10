@@ -1,0 +1,7 @@
+{
+  "name": "Demo-Somesh-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
